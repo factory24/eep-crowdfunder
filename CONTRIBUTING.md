@@ -7,10 +7,10 @@ great tool.
 #### **Did you find a bug?**
 
 * **Ensure the bug was not already reported** by searching on GitHub
-  under [Issues](https://github.com/200ok-ungleich/swiss-crowdfunder/issues).
+  under [Issues](https://github.com/realChainLife/eep-crowdfunder/issues).
 
 * If you're unable to find an open issue addressing the problem,
-  [open a new one](https://github.com/200ok-ungleich/swiss-crowdfunder/issues/new).
+  [open a new one](https://github.com/realChainLife/eep-crowdfunder/issues/new).
   Be sure to include a **title and clear description**, as much
   relevant information as possible, and a **code sample** or an
   **executable test case** demonstrating the expected behavior that is

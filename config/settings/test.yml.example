@@ -4,5 +4,5 @@ mattermost_endpoint: ''
 mail:
   from_address: 'rails@example.com'
 exception:
-  sender_address: '"swiss crowdfunder exception" <rails@example.com>'
+  sender_address: '"eep crowdfunder exception" <rails@example.com>'
   exception_recipients: "u1@example.com u2@example.com"
