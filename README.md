@@ -1,11 +1,11 @@
 README
 ======
 
-Tests (CircleCI): [![CircleCI](https://circleci.com/gh/200ok-ungleich/swiss-crowdfunder.svg?style=svg)](https://circleci.com/gh/200ok-ungleich/swiss-crowdfunder)
+Tests (CircleCI): [![CircleCI](https://circleci.com/gh/realChainLife/eep-crowdfunder.svg?style=svg)](https://circleci.com/gh/realChainLife/eep-crowdfunder)
 
-Security (Hakiri): [![security](https://hakiri.io/github/200ok-ungleich/swiss-crowdfunder/master.svg)](https://hakiri.io/github/200ok-ungleich/swiss-crowdfunder/master)
+Security (Hakiri): [![security](https://hakiri.io/github/realChainLife/eep-crowdfunder/master.svg)](https://hakiri.io/github/realChainLife/eep-crowdfunder/master)
 
-Maintainability (Codeclimate): [![Maintainability](https://api.codeclimate.com/v1/badges/c0aa14e9f972e1394f4a/maintainability)](https://codeclimate.com/github/200ok-ungleich/swiss-crowdfunder/maintainability)
+Maintainability (Codeclimate): [![Maintainability](https://api.codeclimate.com/v1/badges/c0aa14e9f972e1394f4a/maintainability)](https://codeclimate.com/github/realChainLife/eep-crowdfunder/maintainability)
 
 The core maintainers organize their to-dos in org-mode here:
 [TODO.org](TODO.org)
@@ -16,7 +16,7 @@ What does this project do?
 Swiss Crowdfunder is a Crowdfunding platform (doh).
 
 This repository is the open source community version of
-<https://swiss-crowdfunder.com>.
+<https://eep-crowdfunder.com>.
 
 ### Screenshot of a campaign
 
@@ -153,7 +153,7 @@ Where can I get more help, if I need it?
 ----------------------------------------
 
 We have a public Mattermost chat channel for the Swiss Crowdfunder:
-<https://brandnewchat.ungleich.ch/ungleich/channels/swiss-crowdfunder>
+<https://brandnewchat.ungleich.ch/ungleich/channels/eep-crowdfunder>
 
 Otherwise, please open a Github issue or get back to us via email
 (info@200ok.ch or info@ungleich.ch).
@@ -192,4 +192,4 @@ through [Globalize](https://github.com/globalize/globalize).
 ### Testing on CI
 
 We are using
-[CircleCI](https://circleci.com/gh/200ok-ungleich/swiss-crowdfunder).
+[CircleCI](https://circleci.com/gh/realChainLife/eep-crowdfunder).

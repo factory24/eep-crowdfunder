@@ -14,7 +14,7 @@ de:
     not_found:
       page_not_found_1: "Seite nicht gefunden"
       page_not_found_2: "Etwas ist schief gelaufen!"
-      page_not_found_3: 'Sie können uns unter <a href="mailto:info@swiss-crowdfunding.com">info@swiss-crowdfunding.com</a> kontaktieren und wir kommen umgehend auf Sie zurück!'
+      page_not_found_3: 'Sie können uns unter <a href="mailto:info@eep-crowdfunding.com">info@eep-crowdfunding.com</a> kontaktieren und wir kommen umgehend auf Sie zurück!'
   layouts:
     application:
       home: "Home"
